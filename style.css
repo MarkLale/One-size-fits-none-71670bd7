@@ -1,0 +1,18 @@
+/* All <a> elements. */
+a {
+  color: red;
+}
+
+/* All <h2> elements. */
+h2 {
+  color: blue;
+}
+
+li { font-size: x-large; }
+
+body {
+background-color: #777799;
+color: #FFFFFF; }
+
+img {
+  width: 200px; }
